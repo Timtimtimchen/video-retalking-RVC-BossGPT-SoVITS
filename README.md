@@ -47,7 +47,7 @@ GPT models list 跟 SoVITS models list 都要選數字大的 如果沒選項點r
 
 
 <video controls  title="Title">
-<source id="mp4" src="PHOTO/蔡英魂找中國單挑.mp4" type="video/mp4"></video>
+<source id="mp4" src="https://github.com/Timtimtimchen/video-retalking-RVC-BossGPT-SoVITS/blob/master/PHOTO/蔡英魂找中國單挑.mp4" type="video/mp4"></video>
 
-<video controls src="PHOTO/蔡英魂推薦我讀研究所.mp4" title="Title"></video>
+<video controls src="https://github.com/Timtimtimchen/video-retalking-RVC-BossGPT-SoVITS/blob/master/PHOTO/蔡英魂推薦我讀研究所.mp4" title="Title"></video>
 </videos>
