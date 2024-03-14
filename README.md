@@ -43,4 +43,9 @@ GPT models list 跟 SoVITS models list 都要選數字大的 如果沒選項點r
  再來給他你想讓他講的句子 按start
  音檔生成在右手邊
 
+## 加video-retalking使影片更生動然
 
+https://github.com/Timtimtimchen/video-retalking-RVC-BossGPT-SoVITS/blob/master/PHOTO/蔡英魂找中國單挑.mp4
+
+
+https://github.com/Timtimtimchen/video-retalking-RVC-BossGPT-SoVITS/blob/master/PHOTO/蔡英魂推薦我讀研究所.mp4
