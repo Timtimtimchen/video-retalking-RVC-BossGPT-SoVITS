@@ -24,7 +24,7 @@ list位置在框內位置 可自訂
 確認沒問題就可關閉網頁
 
 ## 7.第二個頁面(1-gtp-sovits-TTS)
-![image](https://github.com/Timtimtimchen/video-retalking-RVC-BossGPT-SoVITS/blob/master/PHOTO/F.png)
+![image](https://github.com/Timtimtimchen/video-retalking-RVC-BossGPT-SoVITS/blob/master/PHOTO/f.png)
 設置實驗名也就是模型名，不要有中文！然後第一個輸入的是標註文件路徑，注意是文件路徑！示例：/content/GPT-SoVITS/output/asr_opt/slicer_opt.list 注意後面的文件名必須要輸進去！打不開就再三檢查路徑是否正確！必須要有.list的後綴！！！第二個輸入的是切分音頻文件夾路徑 示例：/content/GPT-SoVITS/output/slicer_opt。注意複製的路徑都不能有引號！！！千萬不能有引號！然後點一鍵三連。結束 /content/GPT-SoVITS/logs 裡會有檔案 沒有就是錯
 
 ## 訓練(1B-Fine-tuned training)
