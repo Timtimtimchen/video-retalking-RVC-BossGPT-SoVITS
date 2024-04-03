@@ -46,7 +46,6 @@ GPT models list 跟 SoVITS models list 都要選數字大的 如果沒選項點r
 ## 加video-retalking使影片更生動
 
 
-https://github.com/Timtimtimchen/video-retalking-RVC-BossGPT-SoVITS/assets/91642939/90d9d418-d1fc-4e84-b166-ddba5cf80adc
 
 
 https://github.com/Timtimtimchen/video-retalking-RVC-BossGPT-SoVITS/assets/91642939/56fd0d46-39c1-4236-9a5b-5511ea3532a8
